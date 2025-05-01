@@ -1,0 +1,2 @@
+# Datacollectionandprocessingterminal
+使用手机app作为数据的收集和处理终端
